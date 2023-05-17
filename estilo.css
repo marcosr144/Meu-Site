@@ -1,0 +1,14 @@
+h2{
+height: 200px;
+}
+
+html {
+    background-color: #00FFFF;
+  }
+
+
+li{
+    height: 100px;
+
+    background-color: rgb(113, 183, 243);
+}
